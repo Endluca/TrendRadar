@@ -1,9 +1,11 @@
 人工智能
 AI
+
 机器学习
 深度学习
 大模型
 LLM
+
 ChatGPT
 GPT
 Claude
@@ -11,25 +13,30 @@ Gemini
 文心一言
 通义千问
 智谱清言
+
 AIGC
 生成式AI
 AGI
 通用人工智能
+
 Transformer
 神经网络
 算力
 GPU
 推理
 训练
+
 AI Agent
 智能体
 多模态
+
 向量数据库
 提示词工程
 Prompt
 RAG
 微调
 LoRA
+
 Sam Altman
 Ilya Sutskever
 Greg Brockman
@@ -49,10 +56,12 @@ Geoffrey Hinton
 Jensen Huang
 黄仁勋
 马斯克
+
 OpenAI
 Anthropic
 Google DeepMind
-Meta AI
+Meta
+
 百度
 阿里
 腾讯
@@ -71,6 +80,7 @@ Perplexity
 AMD
 微软
 谷歌
+
 在线教育
 K12
 双减
@@ -79,7 +89,6 @@ K12
 直播课
 AI课
 录播课
-双师课堂
 一对一
 小班课
 大班课
@@ -90,8 +99,10 @@ LTV
 教育科技
 EdTech
 智慧教育
+
 51talk
 无忧英语
+
 VIPKID
 哒哒英语
 阿卡索
@@ -104,6 +115,7 @@ VIPKID
 有道
 火花思维
 掌门教育
+
 Cambly
 Preply
 VIPKid
@@ -112,6 +124,7 @@ Duolingo
 Coursera
 Udemy
 Khan Academy
+
 AI教师
 AI助教
 自适应学习
@@ -137,6 +150,7 @@ AI答疑
 AI测评
 AI备课
 智能推题
+
 融资
 投资
 收购
